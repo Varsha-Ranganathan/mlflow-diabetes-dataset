@@ -3,7 +3,8 @@
 ## 📹 Demo
 [![Watch the demo](https://img.youtube.com/vi/t_nYCwesUq4/0.jpg)](https://www.youtube.com/watch?v=t_nYCwesUq4)
 
-🧠 Streamlit + MLflow Integration Demo
+🧠 Streamlit + MLflow Integration
+
 This project demonstrates the seamless integration of MLflow with Streamlit, enabling users to manage the entire machine learning lifecycle — from model selection and training to model registration and prediction — all within a single, user-friendly web interface.
 
 🚀 Features
